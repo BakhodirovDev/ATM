@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ATM": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}

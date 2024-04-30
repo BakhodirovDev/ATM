@@ -1,0 +1,13 @@
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\ATM.pdb
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\D3DCompiler_47_cor3.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\PenImc_cor3.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\PresentationNative_cor3.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\vcruntime140_cor3.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\wpfgfx_cor3.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\LdaNative.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\comerr64.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\gssapi64.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\k5sprt64.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\krb5_64.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\krbcc64.dll
+C:\Users\Behruz\OneDrive\Desktop\New folder (3)\ATM.exe

@@ -1,0 +1,3 @@
+C:\Users\Behruz\OneDrive\Desktop\ATM.pdb
+C:\Users\Behruz\OneDrive\Desktop\LdaNative.dll
+C:\Users\Behruz\OneDrive\Desktop\ATM.exe

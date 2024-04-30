@@ -1,0 +1,8 @@
+C:\Users\Behruz\OneDrive\Desktop\ATM.pdb
+C:\Users\Behruz\OneDrive\Desktop\LdaNative.dll
+C:\Users\Behruz\OneDrive\Desktop\comerr64.dll
+C:\Users\Behruz\OneDrive\Desktop\gssapi64.dll
+C:\Users\Behruz\OneDrive\Desktop\k5sprt64.dll
+C:\Users\Behruz\OneDrive\Desktop\krb5_64.dll
+C:\Users\Behruz\OneDrive\Desktop\krbcc64.dll
+C:\Users\Behruz\OneDrive\Desktop\ATM.exe
